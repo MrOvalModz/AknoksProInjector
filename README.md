@@ -1,2 +1,0 @@
-# AknoksProInjector
-AknoksUpdater
